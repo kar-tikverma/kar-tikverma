@@ -7,7 +7,7 @@
 
 - 📫 Reach me at **verma.kartik067@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/15BtyNiRCzEmFH8xbvQRXsL3iIO-JR-6LTxZ_rGFOnBk)
+- 📄 Check out my experience [Resume](https://docs.google.com/document/d/15BtyNiRCzEmFH8xbvQRXsL3iIO-JR-6LTxZ_rGFOnBk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
