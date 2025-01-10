@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 📫 How to reach me **verma.kartik067@gmail.com**
+- 📫 Reach me at **verma.kartik067@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://docs.google.com/document/d/15BtyNiRCzEmFH8xbvQRXsL3iIO-JR-6LTxZ_rGFOnBk)
 
